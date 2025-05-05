@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cmann50-mcp-chrome-google-search-badge.png)](https://mseep.ai/app/cmann50-mcp-chrome-google-search)
+
 # MCP Chrome Google Search Tool
 
 MCP tool for Google search and webpage content extraction using Chrome browser. Works with Claude to enable Google search and content fetching capabilities.
